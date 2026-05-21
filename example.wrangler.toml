@@ -1,8 +1,8 @@
-name = "newsnow"
+name = "wrangler.toml"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "newsnow-db"
-database_id = ""
+database_name = "ziyang"
+database_id = "4c2bbdb1-61a7-4952-a741-12b70d889498"
